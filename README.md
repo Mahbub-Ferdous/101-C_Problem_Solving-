@@ -6,6 +6,10 @@
 ## In this repository you will find full of C programming 101 problem solving 
 
 
+## NB: You can also solve those 100 problems by using another language which your learned recently
+
+
+
 ##📌️📌️CHAPTER:- 1. PLAY WITH PRINTF():-----
 
 
